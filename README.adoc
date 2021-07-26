@@ -11,7 +11,9 @@ ifdef::env-github[]
 endif::[]
 
 //------------------------------------ Badges --------
-image:{baseURL}/actions/workflows/main.yml/badge.svg[Deployed] image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
+image:{baseURL}/actions/workflows/chec.yml/badge.svg[Test] 
+image:{baseURL}/actions/workflows/main.yml/badge.svg[Deploy] 
+image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
 //------------------------------------ Badges --------
 
 CAUTION: Site en construction!! 

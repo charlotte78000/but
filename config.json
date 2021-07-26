@@ -1,7 +1,7 @@
 {
     "ignorePatterns": [
         { "pattern": "^http://localhost:8000" },
-        { "pattern": "^http://www.it-tallaght.ie" }
+        { "pattern": "^http://mi.iut-blagnac.fr/" }
     ]
 }
 
