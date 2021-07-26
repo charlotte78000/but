@@ -1,0 +1,66 @@
+@startuml buts1
+
+!include config.plantuml
+'!include competences.plantuml
+
+'!include sae.plantuml
+
+'----------- Ressources
+storage "R1.01\nInitiation au dev." as r11
+storage "R1.02\nDev. interfaces web" as r12
+storage "R1.03\nIntro. archi." as r13
+storage "R1.04\nIntro. systèmes " as r14
+storage "R1.05\nIntroduction BD " as r15
+storage "R1.06\nMaths discrètes " as r16
+storage "R1.07\nOutils fondamentaux " as r17
+storage "R1.08\nGestion proj. orga. " as r18
+storage "R1.09\nÉconomie" as r19
+storage "R1.10\nAnglais technique" as r110
+storage "R1.11\nBases de la comm " as r111
+
+'----------- SAÉs
+node "SAE 1.1\nImplémentation\nbesoin client" as sae11 
+node "SAE 1.2\nComparaison d'algo" as sae12 
+node "SAE 1.3\nInstallation poste" as sae13
+node "SAE 1.4\nCréation BD" as sae14 
+node "SAE 1.5\n[[https://jmbruel.github.io/antora-template/but/1.0/sae-1.5/master.html Recueil besoins]]" as sae15 
+node "SAE 1.6\nEnvironnement éco" as sae16 
+
+
+'----------- Chronologie des SAÉ
+
+sae15 <.. sae11
+sae11 <.. sae12
+
+'----------- Graphe
+title Info - S1 v.0.1
+
+
+
+r11 --> sae11 : 2/2
+r11 --> sae12 : 2/2
+r12 --> sae15 : 0/2
+r12 --> sae16 : 0/2
+r13 --> sae13 : 3/0
+r14 --> sae13 : 2/0
+r15 --> sae14 : 2/2
+r16 --> sae12 : x
+r17 --> sae12 : x
+r18 --> sae15 : 4/0
+r18 --> sae16 : x
+r19 --> sae14 : 2/0
+r19 --> sae16 : x
+r110 --> sae12 : x
+r110 --> sae13 : 0/2
+r111 --> sae13 : 0/2
+r111 --> sae15 : x
+r111 --> sae16 : 0/4
+
+'--- Legend---
+storage Ressource as r
+node SAÉ as s
+r --> s : TD/TP
+
+' Astuce cachée pour mettre la 14 à gauche de la 15
+'sae14 -[hidden]> sae15
+@enduml

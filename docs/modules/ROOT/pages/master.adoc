@@ -1,0 +1,18 @@
+= Département Informatique -- IUT de Blagnac
+Jean-Michel Bruel <bruel@irit.fr>
+v1.0, {localdate}
+:myinitials: JMB
+:icons: font
+:xrefstyle: short
+// short full basic
+:experimental:
+
+include::ROOT:page$definitions.adoc[]
+
+CAUTION: Site under construction!! 
+
+image::dpt-info.png[Dpt Info]
+
+Ce site regroupe les informations concernant le département informatique de l'{iut} de l'{ut2j}.
+
+Pour des informations générales sur le BUT Informatique : https://www.iut-blagnac.fr/fr/formations/dut-informatique.

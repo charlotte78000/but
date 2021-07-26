@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "asciidoctor": "^2.2.4",
+    "asciidoctor-kroki": "^0.13.0"
+  }
+}

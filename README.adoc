@@ -1,0 +1,21 @@
+= BUT Info Blagnac
+:website: https://IUT-Blagnac.github.io/but
+:baseURL: https://github.com/IUT-Blagnac/but
+// Specific to GitHub
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+//------------------------------------ Badges --------
+image:{baseURL}/actions/workflows/main.yml/badge.svg[Deployed] image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
+//------------------------------------ Badges --------
+
+CAUTION: Site en construction!! 
+
+Site pour la description du BUT Informatique de l'IUT de Blagnac.
+
+La version déployée (automatiquement) de ce site est ici : {website}.
