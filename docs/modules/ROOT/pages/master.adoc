@@ -15,4 +15,6 @@ image::dpt-info.png[Dpt Info]
 
 Ce site regroupe les informations concernant le département informatique de l'{iut} de l'{ut2j}.
 
-Pour des informations générales sur le BUT Informatique : https://www.iut-blagnac.fr/fr/formations/dut-informatique.
+Pour des informations générales sur le BUT Informatique de Blagnac : https://www.iut-blagnac.fr/fr/formations/dut-informatique.
+
+Pour télécharger la plaquette du BUT Informatique de Blagnac : https://www.iut-blagnac.fr/images/PDF/BUT_INFO__2020.pdf
