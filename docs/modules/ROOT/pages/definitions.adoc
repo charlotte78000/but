@@ -1,7 +1,7 @@
 :definitions:
 :example-caption!:
 
-// Required mmacros
+// Required macros
 :FR:
 :plantuml-server-url: http://www.plantuml.com/plantuml
 
