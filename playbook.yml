@@ -41,4 +41,4 @@ asciidoc:
     # for plantuml and other diagrams
     kroki-fetch-diagram: true
     # to avoid "Example xyz:" on OQQQ sections
-    example-caption: false
+    example-caption: ""
