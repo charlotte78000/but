@@ -65,4 +65,6 @@ skinparam arrow {
 
 
 
-
+@startuml
+class A
+@enduml
