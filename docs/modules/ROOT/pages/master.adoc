@@ -13,7 +13,7 @@ CAUTION: Site under construction!!
 
 image::dpt-info.png[Dpt Info]
 
-Ce site présente les informations concernant le département informatique de l'{iut} de l'{ut2j}.
+Ce site regroupe les informations concernant le département informatique de l'{iut} de l'{ut2j}.
 
 Pour des informations générales sur le BUT Informatique de Blagnac : https://www.iut-blagnac.fr/fr/formations/dut-informatique.
 
