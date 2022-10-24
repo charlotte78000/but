@@ -1,0 +1,34 @@
+:num-comp: 5
+:mytitle: Identifier les besoins métiers des clients et des utilisateurs
+:year: 2021-2022
+= Compétence {num-comp}: {mytitle}
+:icons: font
+ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
+// ------------ For individual PDF ouputs -------------
+ifdef::backend-pdf[]
+include::../../ROOT/pages/definitions.adoc[]
+:imagesdir: ../images
+:allow-uri-read: 
+:safe: unsafe
+endif::[]
+
+== Programme national
+
+:mywidth: 90
+image:c5.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+
+=== SAÉ impliquées :
+
+- xref:sae-1.5:master.adoc[1.5 Recueil de besoins]
+
+ifdef::backend-pdf[]
+== Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+endif::[]
+ifndef::backend-pdf[]
+== Déclinaison {year} image:ROOT:dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+endif::[]
+
+
+
+
+
