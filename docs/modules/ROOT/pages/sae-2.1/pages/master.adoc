@@ -8,7 +8,7 @@ ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
 
 // ------------ For individual PDF ouputs -------------
 ifdef::backend-pdf[]
-include::../../ROOT/pages/definitions.adoc[]
+include::../../definitions.adoc[]
 :imagesdir: ../images
 :allow-uri-read: 
 :safe: unsafe
