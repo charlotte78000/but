@@ -5,7 +5,7 @@ site:
   title: 'IUT Blagnac -- BUT Informatique'
   # the 404 page and sitemap files only get generated when the url property is set
   url: https://IUT-Blagnac.github.io/but
-  start_page: dpt::master.adoc
+  start_page: but::master.adoc
 
 content:
   sources:

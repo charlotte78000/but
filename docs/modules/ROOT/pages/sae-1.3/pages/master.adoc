@@ -176,4 +176,3 @@ Ressource  R1-11 « Base de la communication »
 ** Recherches à prévoir : webographie
 -  Validation sur 2 créneaux TD R1-03 : tests et démonstration de l’opérationnalité de la VM
 ====
-
