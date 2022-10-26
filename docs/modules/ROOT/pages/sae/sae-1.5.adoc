@@ -7,8 +7,8 @@
 ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
 // ------------ For individual PDF ouputs -------------
 ifdef::backend-pdf[]
-include::../../ROOT/pages/definitions.adoc[]
-:imagesdir: ../images
+include::../ROOT/pages/definitions.adoc[]
+:imagesdir: ../../images
 :allow-uri-read: 
 :safe: unsafe
 endif::[]
@@ -17,9 +17,9 @@ endif::[]
 == Programme national
 
 :mywidth: 32
-image:descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
-image:cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
-image:competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+image:sae/sae-1.5/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:sae/sae-1.5/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:sae/sae-1.5/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
 
 ifdef::backend-pdf[]
 == Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
@@ -35,7 +35,7 @@ endif::[]
 
 En S1, la SAÉ relative aux compétences :
 
-- xref:C5:master.adoc[Compétence 5 (Identifier les besoins métiers des clients et des utilisateurs)] (40%)
+- xref:competences/c5.adoc[Compétence 5 (Identifier les besoins métiers des clients et des utilisateurs)] (40%)
 
 L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à écouter et retranscrire les besoins d'un client pour un projet (un produit, une application, une activité à venir) donné.
 
@@ -84,7 +84,7 @@ Les besoins du client doivent être réel.
 .icon:graduation-cap[] Qui ?
 ====
 - {ep} (p)
-- {jmb} (p) image:jmb.jpg[width=10%, pdfwidth=10%] 
+- {jmb} (p) image:sae/sae-1.5/jmb.jpg[width=10%, pdfwidth=10%] 
 - {lc}  (v)
 +
 NOTE: Assistance pendant les {heures-sae}h PJT

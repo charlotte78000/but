@@ -6,8 +6,8 @@
 ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
 // ------------ For individual PDF ouputs -------------
 ifdef::backend-pdf[]
-include::../../ROOT/pages/definitions.adoc[]
-:imagesdir: ../images
+include::../ROOT/pages/definitions.adoc[]
+:imagesdir: ../../images
 :allow-uri-read: 
 :safe: unsafe
 endif::[]
@@ -15,11 +15,11 @@ endif::[]
 == Programme national
 
 :mywidth: 90
-image:c5.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:competences/C5/c5.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
 
 === SAÉ impliquées :
 
-- xref:sae-1.5:master.adoc[1.5 Recueil de besoins]
+- xref:sae/sae-1.5.adoc[1.5 Recueil de besoins]
 
 ifdef::backend-pdf[]
 == Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
