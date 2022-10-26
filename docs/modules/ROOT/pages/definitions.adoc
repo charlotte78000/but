@@ -11,6 +11,8 @@
 :jmb: mailto:jbruel@gmail.com[J.-M. Bruel]
 :lc: L. Chanouha
 :lr: mailto:laurence.redon@uni-tlse2.fr[L. Redon]
+:mdm: Marianne de Michielle
+:mfc: Marie-Françoise Canut
 :pso: P. Sotin
 :tg: T. Goubin
 

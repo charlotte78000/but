@@ -3,4 +3,5 @@ build/
 Gemfile.lock
 node_modules
 Rakefile
-
+package-lock.json
+node_modules/package-lock.json

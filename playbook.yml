@@ -1,3 +1,4 @@
+
 # https://docs.antora.org/antora/2.3/playbook/configure-site/
 # On définit ici l'URL qui permettra d'accéder au site créé par
 # Antora depuis l'extérieur.
@@ -5,7 +6,7 @@ site:
   title: 'IUT Blagnac -- BUT Informatique'
   # the 404 page and sitemap files only get generated when the url property is set
   url: https://IUT-Blagnac.github.io/but
-  start_page: dpt::master.adoc
+  start_page: but::master.adoc
 
 content:
   sources:
@@ -15,8 +16,8 @@ content:
   # - url: https://gitlab.com/antora/demo/demo-component-b.git
   #   branches: [v2.0, v1.0]
   #   start_path: docs
-  - url: https://github.com/jmbruel/but1.git
-    start_path: docs
+  # - url: https://github.com/jmbruel/but1.git
+  #start_path: docs
   - url: .
     branches: HEAD
     start_path: docs
@@ -42,3 +43,4 @@ asciidoc:
     kroki-fetch-diagram: true
     # to avoid "Example xyz:" on OQQQ sections
     example-caption: ""
+
