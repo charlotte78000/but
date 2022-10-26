@@ -48,7 +48,7 @@ Les ressources mises en oeuvre sont les suivantes :
 
 === Attendus
 
-[#attendus]
+[.attendus]
 --
 Le recueil du besoin doit permettre au client de s'assurer que son besoin a bien été compris.
 Il pourra donc contenir (en fonction du contexte) :

@@ -43,7 +43,7 @@ L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à construire
 
 === Attendus
 
-[#attendus]
+[.attendus]
 --
 La VM doit permettre de :
 
