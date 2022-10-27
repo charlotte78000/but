@@ -19,9 +19,9 @@ endif::[]
 == Programme national
 
 :mywidth: 32
-image:sae/sae-1.3/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
-image:sae/sae-1.3/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
-image:sae/sae-1.3/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-1.3/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-1.3/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-1.3/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
 
 ifdef::backend-pdf[]
 == Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
@@ -35,7 +35,7 @@ endif::[]
 [#presentation]
 --
 
-En S2, la SAÉ relative aux compétences xref:competences/c1.adoc[Compétence 1 ({c1-title})], xref:competences/c4.adoc[Compétence 4 ({c4-title})], xref:competences/c5.adoc[Compétence 5 ({c5-title})] et xref:competences/c1.adoc[Compétence 6 ({c6-title})] vous amènera à travailler en groupe pour développer une application. 
+En S2, la SAÉ relative aux compétences xref:competences/pages/c1.adoc[Compétence 1 ({c1-title})], xref:competences/pages/c4.adoc[Compétence 4 ({c4-title})], xref:competences/pages/c5.adoc[Compétence 5 ({c5-title})] et xref:competences/pages/c1.adoc[Compétence 6 ({c6-title})] vous amènera à travailler en groupe pour développer une application. 
 Pour ce faire, un certain nombre d’outils logiciels sont nécessaires. 
 
 L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à construire une solution logicielle sous la forme d’une machine virtuelle (VM) comportant tous les composants nécessaires au développement de l’application du S2,  solution déployable sur Linux.

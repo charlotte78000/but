@@ -8,8 +8,8 @@ ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
 
 // ------------ For individual PDF ouputs -------------
 ifdef::backend-pdf[]
-include::../../ROOT/pages/definitions.adoc[]
-:imagesdir: ../images
+include::../ROOT/pages/definitions.adoc[]
+:imagesdir: ../../images
 :allow-uri-read: 
 :safe: unsafe
 endif::[]
@@ -18,9 +18,9 @@ endif::[]
 == Programme national
 
 :mywidth: 32
-image:descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
-image:cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
-image:competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-2.1/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-2.1/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-2.1/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
 
 ifdef::backend-pdf[]
 == Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
@@ -40,7 +40,7 @@ Vous travaillerez à partir d’une application existante « Daily Bank » qu’
 L’application est découpée en trois versions nommées v1, v2 et v3.
 
 
-- xref:C1:master.adoc[Compétence 1 (Développer des applications informatiques simples)] (40%)
+- xref:competences/pages/c1.adoc[Compétence 1 (Développer des applications informatiques simples)] (40%)
 
 Les ressources mises en œuvre sont les suivantes :
 
@@ -51,7 +51,7 @@ Les ressources mises en œuvre sont les suivantes :
 
 === Attendus
 
-[#attendus]
+[.attendus]
 --
 Pour les différentes versions de l’applications :
 - Développer l’application testée corrigée
@@ -118,7 +118,7 @@ NOTE: Assistance pendant les {heures-sae}h PJT
 
 === Description de la SAÉ en détail
 
-[#attendus]
+[.attendus]
 --
 
 Phases :
@@ -138,7 +138,7 @@ Phases :
 
 === Lien avec les ressources
 
-[#attendus]
+[.attendus]
 --
 R2.01 « Dev. Objet »::
 Développement de l’application DailyBank en Java
@@ -150,7 +150,7 @@ Fiches de test, doc technique, javadoc
 
 === Suivi et évaluation
 
-[#attendus]
+[.attendus]
 --
 Les séances de TD sont des heures de projet avec un enseignant présent pour chaque groupe de TD. 
 Les heures de projet sont en autonomie.

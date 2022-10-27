@@ -2,10 +2,10 @@
 * xref:master.adoc[]
 
 .Liste des SAÉs 
-* xref:sae/sae-1.3.adoc[1.3 Installation poste dev.]
-* xref:sae/sae-1.5.adoc[1.5 Recueil de besoins]
-* xref:sae/sae-2.1.adoc[2.1 Dév. d'une application]
+* xref:sae/pages/sae-1.3.adoc[1.3 Installation poste dev.]
+* xref:sae/pages/sae-1.5.adoc[1.5 Recueil de besoins]
+* xref:sae/pages/sae-2.1.adoc[2.1 Dév. d'une application]
 
 .Liste des Compétences 
-* xref:competences/c5.adoc[C5 Gérer un projet]
+* xref:competences/pages/c5.adoc[C5 Gérer un projet]
 

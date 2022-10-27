@@ -15,11 +15,11 @@ endif::[]
 == Programme national
 
 :mywidth: 90
-image:competences/C5/c5.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:C5/c5.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
 
 === SAÉ impliquées :
 
-- xref:sae/sae-1.5.adoc[1.5 Recueil de besoins]
+- xref:sae/pages/sae-1.5.adoc[1.5 Recueil de besoins]
 
 ifdef::backend-pdf[]
 == Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
