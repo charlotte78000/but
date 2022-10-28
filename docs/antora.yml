@@ -11,6 +11,9 @@ start_page: ROOT:master.adoc
 # https://docplayer.fr/169511571-Asciidoc-asciidoctor-antora.html
 nav:
 - modules/ROOT/nav.adoc
+- modules/competences/nav.adoc
+- modules/ressources/nav.adoc
+- modules/sae/nav.adoc
 
 # https://docs.antora.org/antora/2.3/component-version-descriptor/
 

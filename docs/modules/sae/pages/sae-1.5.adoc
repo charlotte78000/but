@@ -17,9 +17,9 @@ endif::[]
 == Programme national
 
 :mywidth: 32
-image:ROOT:sae-1.5/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
-image:ROOT:sae-1.5/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
-image:ROOT:sae-1.5/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+image:sae-1.5/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:sae-1.5/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:sae-1.5/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
 
 ifdef::backend-pdf[]
 == Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
@@ -35,7 +35,7 @@ endif::[]
 
 En S1, la SAÉ relative aux compétences :
 
-- xref:competences/pages/c5.adoc[Compétence 5 (Identifier les besoins métiers des clients et des utilisateurs)] (40%)
+- xref:competences:c5.adoc[Compétence 5 (Identifier les besoins métiers des clients et des utilisateurs)] (40%)
 
 L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à écouter et retranscrire les besoins d'un client pour un projet (un produit, une application, une activité à venir) donné.
 
@@ -84,7 +84,7 @@ Les besoins du client doivent être réel.
 .icon:graduation-cap[] Qui ?
 ====
 - {ep} (p)
-- {jmb} (p) image:ROOT:sae-1.5/jmb.jpg[width=10%, pdfwidth=10%] 
+- {jmb} (p) image:sae-1.5/jmb.jpg[width=10%, pdfwidth=10%] 
 - {lc}  (v)
 +
 NOTE: Assistance pendant les {heures-sae}h PJT
