@@ -1,0 +1,154 @@
+:num-sae: 1.05
+:mytitle: Recueil de besoins
+:year: 2021-2022
+:heures-sae: 12
+= SAÉ {num-sae}: {mytitle}
+:icons: 
+ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
+// ------------ For individual PDF ouputs -------------
+ifdef::backend-pdf[]
+include::../ROOT/pages/definitions.adoc[]
+:imagesdir: ../../images
+:allow-uri-read: 
+:safe: unsafe
+endif::[]
+:example-caption!:
+
+== Programme national
+
+:mywidth: 32
+image:ROOT:sae-1.5/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-1.5/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:ROOT:sae-1.5/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+
+ifdef::backend-pdf[]
+== Déclinaison {year} image:../../ROOT/images/dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+endif::[]
+ifndef::backend-pdf[]
+== Déclinaison {year} image:ROOT:dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+endif::[]
+
+=== Présentation de la SAÉ {num-sae}
+
+[#presentation]
+--
+
+En S1, la SAÉ relative aux compétences :
+
+- xref:competences/pages/c5.adoc[Compétence 5 (Identifier les besoins métiers des clients et des utilisateurs)] (40%)
+
+L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à écouter et retranscrire les besoins d'un client pour un projet (un produit, une application, une activité à venir) donné.
+
+Les ressources mises en oeuvre sont les suivantes :
+
+- R1.2 Dév. Int. Web (2h TP -- maquettes écran)
+- R1.8 Gestion de projet (4h TD -- notions de clients, utilisateurs, personnae, User Story, exigences)
+- R1.11 Base de la com (pas d'heures -- questions type OQQCP...)
+--
+
+=== Attendus
+
+[.attendus]
+--
+Le recueil du besoin doit permettre au client de s'assurer que son besoin a bien été compris.
+Il pourra donc contenir (en fonction du contexte) :
+
+- des schémas (e.g., diagrammes des cas d'utilisation)
+- des tableaux, des listes (de personnes, de propriétés, ...)
+- des scénarios d'utilisation
+- des captures d'écran ou des photos (s'il y a un existant)
+- des maquettes de la future application 
+- tout élément qui vous semble pertinent pour la compréhension et la capture du besoin client
+--
+
+=== Contraintes
+
+[#contraintes]
+--
+Les besoins du client doivent être réel.
+--
+
+=== icon:book[] Livrables
+
+[%interactive]
+- [ ] Recueil de besoin (au format `PDF`) sur un dépôt moodle dédié
+- [ ] Vidéo finale de présentation (10' max) sur un dépôt moodle dédié
+
+== Organisation
+
+//----------------------------------------------------------------------------
+[cols="1a,1a"]
+|===
+//----------------------------------------------------------------------------
+|
+.icon:graduation-cap[] Qui ?
+====
+- {ep} (p)
+- {jmb} (p) image:ROOT:sae-1.5/jmb.jpg[width=10%, pdfwidth=10%] 
+- {lc}  (v)
++
+NOTE: Assistance pendant les {heures-sae}h PJT
++
+[plantuml, gantt, format="svg", opts="interactive", svg-type="inline", width=100%]
+....
+@startgantt
+
+printscale weekly
+
+Project starts the 6th of September 2021
+
+
+-- SAE S1.05 --
+
+[Organisation] starts the 20th of September 2021
+
+[Organisation] lasts 2 weeks
+then [Recueil] lasts 1 week
+then [Synthèse] lasts 2 weeks
+then [Rédaction] lasts 2 weeks
+
+'[Présentation] happens at [Rédaction]'s end
+[Présentation] happens the 10 November 2021
+
+@endgantt
+....
+
+====
+|
+.icon:calendar[] Quand ?
+====
+{heures-sae}h TP PJT réparties en 8 :
+   
+. Préparation/Organisation (qui fait quoi, quel support, etc.)
+. Les Inputs nécessaires (définition, liste)
+. Recueil du besoin lui-même
+. Synthèse et organisation des inputs (1/2)
+. Synthèse et organisation des inputs (2/2)
+. Réalisations des supports (outputs) pour restitution au client (1/2)
+. Réalisations des supports (2/2)
+. Restitution orale (capture vidéo enregistrée)
+====
+
+
+
+//----------------------------------------------------------------------------
+|
+.icon:map-signs[] Où ?
+====
+- Salles TP (4 équipes/salle) pour les {heures-sae}h de PJT
+====
+|
+.icon:wrench[] Quoi ?
+====
+- Outils de maquettage ({balsamiq}, {figma}, {mockplus})
+- Outils modernes de rédaction ({asciidoc}, {latex})
+====
+|===
+
+//----------------------------------------------------------------------------
+//----------------------------------------------------------------------------
+
+
+
+
+
