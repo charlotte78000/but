@@ -23,18 +23,18 @@ Site pour la description du BUT Informatique de l'IUT de Blagnac.
 La version déployée (automatiquement) de ce site est ici : {website}.
 
 
-.Informations
+.__Informations__
 
-* Pages
+- *Pages*
 
-Pour ajouter une page, aller dans modules/répertoire (ex: competences) et l'enregistrer dans répertoire/nav.adoc de la manière suivante:
+Pour ajouter une page, aller dans modules/répertoire et l'enregistrer dans répertoire/nav.adoc de la manière suivante:
 <xref:page.adoc>
 
-* Images
+- *Images*
 
-Pour stocker des images, aller dans modules/repertoire/images/sous_répertoire(ex: competences/images/C5)
+Pour stocker des images, aller dans modules/repertoire/images/sous_répertoire
 
-* Liens
+- *Liens*
 
 Pour créer un lien vers une page procédez ainsi :
 <xref:nom_du_répertoire:page.adoc>
