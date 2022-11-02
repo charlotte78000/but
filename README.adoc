@@ -27,13 +27,15 @@ La version déployée (automatiquement) de ce site est ici : {website}.
 
 - *Pages*
 
-Ajouter une page dans modules/répertoire et l'enregistrer dans répertoire/nav.adoc de la manière suivante:
+Ajouter une page au niveau du répertoire concerné. 
+
+Enregistrer la page dans le fichier nav.adoc associé de la manière suivante:
 
     <xref:page.adoc>
 
 - *Images*
 
-Stocker les images dans modules/repertoire/images/sous_répertoire
+Stocker les images au niveau du répertoire concerné dans le dossier images.
 
 - *Liens*
 
@@ -48,3 +50,5 @@ Pour afficher une image dans une page procédez ainsi :
 Pour créer un lien sur une image pour présenter les liens entre modules procédez ainsi :
 
     <image:image.ext[xref=nom_du_repertoire:page.adoc]>
+
+   
