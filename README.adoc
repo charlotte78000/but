@@ -29,13 +29,13 @@ La version déployée (automatiquement) de ce site est ici : {website}.
 
 Ajouter une page au niveau du répertoire concerné. 
 
-Enregistrer la page dans le fichier nav.adoc associé de la manière suivante:
+Enregistrer la page dans le fichier */nav.adoc* associé de la manière suivante:
 
     <xref:page.adoc>
 
 - *Images*
 
-Stocker les images au niveau du répertoire concerné dans le dossier images.
+Stocker les images au niveau du répertoire concerné dans le dossier */images*.
 
 - *Liens*
 
