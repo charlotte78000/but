@@ -47,4 +47,4 @@ Pour afficher une image dans une page procédez ainsi :
 
 Pour créer un lien sur une image pour présenter les liens entre modules procédez ainsi :
 
-    <xref:nom_du_répertoire>
+    <image:image.ext[xref=nom_du_repertoire:page.adoc]>
