@@ -43,7 +43,7 @@ Pour créer un lien vers une page procédez ainsi :
 
 Pour afficher une image dans une page procédez ainsi :
 
-    <xref:nom_du_sous_répertoire:image.ext>
+    <image:nom_du_sous_répertoire:image.ext>
 
 Pour créer un lien sur une image pour présenter les liens entre modules procédez ainsi :
 
