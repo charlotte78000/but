@@ -1,6 +1,6 @@
 = BUT Info Blagnac
 :website: https://IUT-Blagnac.github.io/but
-:baseURL: https://github.com/IUT-Blagnac/but
+:baseURL: https://github.com/charlotte78000/but
 // Specific to GitHub
 ifdef::env-github[]
 :tip-caption: :bulb:
