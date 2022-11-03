@@ -27,15 +27,16 @@ La version déployée (automatiquement) de ce site est ici : {website}.
 
 === Pages
 
-Pour ajouter une page, aller au niveau du répertoire concerné. 
+Pour ajouter une page, aller au niveau du répertoire concerné et l'enregistrer dans le fichier 
+    @files = `nav.adoc ; 
 
-Pour enregistrer la page,aller dans le fichier (/nav.adoc) associé de la manière suivante:
+associé de la manière suivante:
 
     <xref:page.adoc>
 
 === Images
 
-Pour stocker les images au niveau du répertoire concerné dans le dossier */images*.
+Pour stocker les images, aller au niveau du répertoire concerné dans le dossier */images*.
 
 === Liens
 
