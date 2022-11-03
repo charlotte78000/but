@@ -35,7 +35,8 @@ associé de la manière suivante:
 
 === Images
 
-Pour stocker les images, aller au niveau du répertoire concerné dans le dossier 'images'.
+Pour stocker les images, aller au niveau du répertoire concerné dans le dossier 
+'images'
 
 === Liens
 
