@@ -31,7 +31,7 @@ Pour ajouter une page, aller au niveau du répertoire concerné et l'enregistrer
 `nav.adoc` 
 associé de la manière suivante:
 
-    `xref:page.adoc`
+    xref:page.adoc
 
 === Images
 
