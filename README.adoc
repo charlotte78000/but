@@ -23,9 +23,9 @@ Site pour la description du BUT Informatique de l'IUT de Blagnac.
 La version déployée (automatiquement) de ce site est ici : {website}.
 
 
-.*Informations*
+== Informations
 
-- *Pages*
+=== Pages
 
 Ajouter une page au niveau du répertoire concerné. 
 
@@ -33,11 +33,11 @@ Enregistrer la page dans le fichier */nav.adoc* associé de la manière suivante
 
     <xref:page.adoc>
 
-- *Images*
+=== Images
 
 Stocker les images au niveau du répertoire concerné dans le dossier */images*.
 
-- *Liens*
+=== Liens
 
 Pour créer un lien vers une page procédez ainsi :
 
