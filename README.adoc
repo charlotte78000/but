@@ -31,7 +31,7 @@ Pour ajouter une page, aller au niveau du répertoire concerné et l'enregistrer
 `nav.adoc` 
 associé de la manière suivante:
 
-    <xref:page.adoc>
+    `xref:page.adoc `
 
 === Images
 
@@ -42,14 +42,14 @@ Pour stocker les images, aller au niveau du répertoire concerné dans le dossie
 
 Pour créer un lien vers une page procédez ainsi :
 
-    <xref:nom_du_répertoire:page.adoc>
+     `xref:nom_du_répertoire:page.adoc `
 
 Pour afficher une image dans une page procédez ainsi :
 
-    <image:nom_du_sous_répertoire:image.ext>
+     `image:nom_du_sous_répertoire:image.ext `
 
 Pour créer un lien sur une image pour présenter les liens entre modules procédez ainsi :
 
-    <image:image.ext[xref=nom_du_repertoire:page.adoc]>
+     `image:image.ext[xref=nom_du_repertoire:page.adoc] `
 
    
