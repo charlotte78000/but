@@ -34,7 +34,7 @@ associé de la manière suivante: `xref:page.adoc`
 === Images
 
 Pour stocker les images, aller au niveau du répertoire concerné dans le dossier
- `images` 
+ `images`
 
 === Liens
 
