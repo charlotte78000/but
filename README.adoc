@@ -29,7 +29,7 @@ La version déployée (automatiquement) de ce site est ici : {website}.
 
 Pour ajouter une page, aller au niveau du répertoire concerné et l'enregistrer dans le fichier 
 `nav.adoc` 
-associé de la manière suivante: xref:page.adoc
+associé de la manière suivante: `xref:page.adoc`
 
 === Images
 
