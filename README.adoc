@@ -28,7 +28,7 @@ La version déployée (automatiquement) de ce site est ici : {website}.
 === Pages
 
 Pour ajouter une page, aller au niveau du répertoire concerné et l'enregistrer dans le fichier 
-@files = `nav.adoc` ;
+`nav.adoc` 
 associé de la manière suivante:
 
     <xref:page.adoc>
