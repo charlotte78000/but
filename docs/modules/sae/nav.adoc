@@ -1,9 +1,9 @@
 .Liste des SAÉs 
-* xref:sae-1.1.adoc[]
-* xref:sae-1.2.adoc[]
+
+
 * xref:sae-1.3.adoc[1.3 Installation poste dev.]
-* xref:sae-1.4.adoc[]
+
 * xref:sae-1.5.adoc[1.5 Recueil de besoins]
-* xref:sae-1.6.adoc[]
+
 * xref:sae-2.1.adoc[2.1 Dév. d'une application]
 
