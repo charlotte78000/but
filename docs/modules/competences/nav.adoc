@@ -1,2 +1,7 @@
 .Liste des Compétences 
+* xref:c1.adoc[]
+* xref:c2.adoc[]
+* xref:c3.adoc[]
+* xref:c4.adoc[]
 * xref:c5.adoc[C5 Gérer un projet]
+* xref:c6.adoc[]
