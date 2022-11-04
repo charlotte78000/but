@@ -1,9 +1,8 @@
 @startuml buts1
 
 !include config.plantuml
-'!include competences.plantuml
-
-'!include sae.plantuml
+!include competences.plantuml
+!include sae.plantuml
 
 '----------- Ressources
 storage "R1.01\n[[https://charlotte78000.github.io/but/but1/1.1/R1.01/master.html Initiation au dev.]]" as r11
@@ -27,7 +26,7 @@ node "SAE 1.5\n[[https://charlotte78000.github.io/but/but1/1.1/sae-1.5/master.ht
 node "SAE 1.6\n[[https://charlotte78000.github.io/but/but1/1.1/sae-1.6/master.html Environnement éco]]" as sae16 
 
 
-'-----------https://jmbruel.github.io/antora-template/but1/1.1/master.html
+'-----------https://charlotte78000.github.io/antora-template/but1/1.1/master.html
 
 
 '----------- Chronologie des SAÉ
