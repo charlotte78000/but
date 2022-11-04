@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="554px" preserveAspectRatio="none" style="width:1543px;height:554px;background:#FFFFFF;" version="1.1" viewBox="0 0 1543 554" width="1543px" zoomAndPan="magnify"><defs/><g><rect height="26.7999" rx="5" ry="5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="102" x="713.505" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="92" x="718.505" y="23.9999">Info - S1 v.0.1</text><!--MD5=[c62305f8767b7297d71498ed93a07a0b]
+entity r11--><g id="elem_r11"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="122" x="323.51" y="180.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="365.51" y="204.7999">R1.01</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="333.51" y="221.5998">Initiation au dev.</text></g><!--MD5=[97e12c4c35df3db615dd206260a1eae4]
+entity r12--><g id="elem_r12"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="141" x="830.01" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="881.51" y="68.7999">R1.02</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="840.01" y="85.5998">Dev. interfaces web</text></g><!--MD5=[93d57ee199d382e6cba9586b5c9487cd]
+entity r13--><g id="elem_r13"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="91" x="378.01" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="404.51" y="68.7999">R1.03</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="388.01" y="85.5998">Intro. archi.</text></g><!--MD5=[b9a4872f8bb942099c0de7666a35944b]
+entity r14--><g id="elem_r14"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="117" x="504.01" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="543.51" y="68.7999">R1.04</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="514.01" y="85.5998">Intro. systèmes</text></g><!--MD5=[cc021f1cef0b492c3bce4583f556f0a2]
+entity r15--><g id="elem_r15"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="120" x="1294.51" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="1335.51" y="68.7999">R1.05</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="1304.51" y="85.5998">Introduction BD</text></g><!--MD5=[62ab235c837744bff8eff6124a0b191a]
+entity r16--><g id="elem_r16"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="122" x="86.51" y="329.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="128.51" y="353.7999">R1.06</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="96.51" y="370.5998">Maths discrètes</text></g><!--MD5=[8917ed62d460b8ee39da132cbaef447f]
+entity r17--><g id="elem_r17"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="152" x="243.51" y="329.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="300.51" y="353.7999">R1.07</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="253.51" y="370.5998">Outils fondamentaux</text></g><!--MD5=[8f8e0e7a3acfde448c3dfdd334465ec7]
+entity r18--><g id="elem_r18"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="138" x="1006.51" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="1056.51" y="68.7999">R1.08</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="1016.51" y="85.5998">Gestion proj. orga.</text></g><!--MD5=[c188652b1ea8f8c223432d772372dc7b]
+entity r19--><g id="elem_r19"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="79" x="1180.01" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="1200.51" y="68.7999">R1.09</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1190.01" y="85.5998">Économie</text></g><!--MD5=[074acbed5e8b110780196068e5a2c82a]
+entity r110--><g id="elem_r110"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="130" x="50.51" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="96.51" y="68.7999">R1.10</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="60.51" y="85.5998">Anglais technique</text></g><!--MD5=[71adfa3e2dfa04ee95d657fbffd12665]
+entity r111--><g id="elem_r111"><rect fill="#FFFFE0" height="53.5999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="136" x="658.51" y="44.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="707.51" y="68.7999">R1.11</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="668.51" y="85.5998">Bases de la comm</text></g><!--MD5=[5505fae473b37b001fdb3d002aa5bc30]
+entity sae11--><g id="elem_sae11"><polygon fill="#87CEEB" points="521.01,326.7999,531.01,316.7999,654.01,316.7999,654.01,387.1997,644.01,397.1997,521.01,397.1997,521.01,326.7999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="644.01" x2="654.01" y1="326.7999" y2="316.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="521.01" x2="644.01" y1="326.7999" y2="326.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="644.01" x2="644.01" y1="326.7999" y2="397.1997"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="557.01" y="350.7999">SAE 1.1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="536.01" y="367.5998">Implémentation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="544.51" y="384.3997">besoin client</text></g><!--MD5=[f8350f3e21562befa4ae41ef93cbabd6]
+entity sae12--><g id="elem_sae12"><polygon fill="#87CEEB" points="238.01,483.7999,248.01,473.7999,401.01,473.7999,401.01,527.3998,391.01,537.3998,238.01,537.3998,238.01,483.7999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="391.01" x2="401.01" y1="483.7999" y2="473.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="238.01" x2="391.01" y1="483.7999" y2="483.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="391.01" x2="391.01" y1="483.7999" y2="537.3998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="289.01" y="507.7999">SAE 1.2</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="253.01" y="524.5998">Comparaison d'algo</text></g><!--MD5=[9837f4b409915ab6344efab6d40991c3]
+entity sae13--><g id="elem_sae13"><polygon fill="#87CEEB" points="480.51,185.7999,490.51,175.7999,624.51,175.7999,624.51,229.3998,614.51,239.3998,480.51,239.3998,480.51,185.7999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="614.51" x2="624.51" y1="185.7999" y2="175.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="480.51" x2="614.51" y1="185.7999" y2="185.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="614.51" x2="614.51" y1="185.7999" y2="239.3998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="522.01" y="209.7999">SAE 1.3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="495.51" y="226.5998">Installation poste</text></g><!--MD5=[d7cdbd9003927e1cb2a773f82629afd6]
+entity sae14--><g id="elem_sae14"><polygon fill="#87CEEB" points="1275.01,185.7999,1285.01,175.7999,1390.01,175.7999,1390.01,229.3998,1380.01,239.3998,1275.01,239.3998,1275.01,185.7999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="1380.01" x2="1390.01" y1="185.7999" y2="175.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1275.01" x2="1380.01" y1="185.7999" y2="185.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1380.01" x2="1380.01" y1="185.7999" y2="239.3998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="1302.01" y="209.7999">SAE 1.4</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="1290.01" y="226.5998">Création BD</text></g><!--MD5=[cbc102692a25a9d75da07bd812b0c4e3]
+entity sae15--><g id="elem_sae15"><polygon fill="#87CEEB" points="659.51,185.7999,669.51,175.7999,1025.51,175.7999,1025.51,229.3998,1015.51,239.3998,659.51,239.3998,659.51,185.7999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="1015.51" x2="1025.51" y1="185.7999" y2="175.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="659.51" x2="1015.51" y1="185.7999" y2="185.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1015.51" x2="1015.51" y1="185.7999" y2="239.3998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="812.01" y="209.7999">SAE 1.5</text><a href="https://iut-blagnac.github.io/but/but1/1.1/master.html" target="_top" title="https://iut-blagnac.github.io/but/but1/1.1/master.html" xlink:actuate="onRequest" xlink:href="https://iut-blagnac.github.io/but/but1/1.1/master.html" xlink:show="new" xlink:title="https://iut-blagnac.github.io/but/but1/1.1/master.html" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="326" x="674.51" y="226.5998">https://iut-blagnac.github.io/but/but1/1.1/master.html</text></a></g><!--MD5=[94ac2d62d2a83b25c4bf0a4c59f99025]
+entity sae16--><g id="elem_sae16"><polygon fill="#87CEEB" points="1061.01,185.7999,1071.01,175.7999,1218.01,175.7999,1218.01,229.3998,1208.01,239.3998,1061.01,239.3998,1061.01,185.7999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="1208.01" x2="1218.01" y1="185.7999" y2="175.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1061.01" x2="1208.01" y1="185.7999" y2="185.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1208.01" x2="1208.01" y1="185.7999" y2="239.3998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="1109.01" y="209.7999">SAE 1.6</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="1076.01" y="226.5998">Environnement éco</text></g><!--MD5=[cbf2a705c8c36a956106bd646f097c75]
+entity r--><g id="elem_r"><rect fill="#FFFFE0" height="36.7999" rx="35" ry="35" style="stroke:#181818;stroke-width:0.5;" width="85" x="1450.01" y="53.2999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="1460.01" y="77.2999">Ressource</text></g><!--MD5=[d8322213e5f4465576b8bf70cd9bce59]
+entity s--><g id="elem_s"><polygon fill="#87CEEB" points="1459.01,194.2999,1469.01,184.2999,1526.01,184.2999,1526.01,221.0999,1516.01,231.0999,1459.01,231.0999,1459.01,194.2999" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="1516.01" x2="1526.01" y1="194.2999" y2="184.2999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1459.01" x2="1516.01" y1="194.2999" y2="194.2999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1516.01" x2="1516.01" y1="194.2999" y2="231.0999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="1474.01" y="218.2999">SAÉ</text></g><!--MD5=[bc3f007aea2e9a35d24dd78be8a76800]
+reverse link sae15 to sae11--><g id="link_sae15_sae11"><path d="M783.78,242.6599 C745.11,264.9499 694.4,294.1799 654.22,317.3499 " fill="none" id="sae15-backto-sae11" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="788.43,239.9699,778.6334,240.9831,784.0941,242.4599,782.6173,247.9205,788.43,239.9699" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[882665abb3dd31801972e8044fc9f1e8]
+reverse link sae11 to sae12--><g id="link_sae11_sae12"><path d="M546.55,400.9299 C530.49,416.0299 511.2,432.1099 491.51,443.7999 C463.72,460.2899 430.77,473.3299 401.18,483.0399 " fill="none" id="sae11-backto-sae12" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="550.56,397.1099,541.278,400.4029,546.9329,400.5514,546.7844,406.2063,550.56,397.1099" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[e22b674726aba1f5cf4c0ffba046556c]
+link r11 to sae11--><g id="link_r11_sae11"><path d="M435.42,234.9199 C453.64,245.0199 473.99,257.1799 491.51,269.7999 C509.42,282.6999 527.78,298.4299 543.58,312.8899 " fill="none" id="r11-to-sae11" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="547.55,316.5399,543.628,307.5057,543.8678,313.1574,538.216,313.3972,547.55,316.5399" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="512.51" y="283.7999">2/2</text></g><!--MD5=[771e650061340fe56649b555a9a15e65]
+link r11 to sae12--><g id="link_r11_sae12"><path d="M396.29,234.8699 C411.31,271.9599 433.01,341.5799 412.51,396.7999 C402.1,424.8499 380.77,450.4999 361.16,469.7599 " fill="none" id="r11-to-sae12" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="357.26,473.5299,366.5151,470.1621,360.8592,470.0592,360.9621,464.4033,357.26,473.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="422.51" y="362.2999">2/2</text></g><!--MD5=[d83a422d616334b251cb6f8ae412ed6b]
+link r12 to sae15--><g id="link_r12_sae15"><path d="M879.97,99.0299 C873.65,108.0699 867.15,118.5199 862.51,128.7999 C856.57,141.9699 852.17,157.2099 849.03,170.7099 " fill="none" id="r12-to-sae15" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="847.93,175.5999,853.8091,167.6983,849.0282,170.722,846.0045,165.9411,847.93,175.5999" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="863.51" y="142.7999">0/2</text></g><!--MD5=[47243e58f1a54596dcc96bd84e6fcd53]
+link r12 to sae16--><g id="link_r12_sae16"><path d="M947.16,98.9499 C985.04,120.1899 1038.71,150.2799 1079.74,173.2899 " fill="none" id="r12-to-sae16" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1084.17,175.7699,1078.2955,167.8649,1079.8148,173.3139,1074.3658,174.8332,1084.17,175.7699" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="1028.51" y="142.7999">0/2</text></g><!--MD5=[e02f712c29f069960f6e1829a298cbc4]
+link r13 to sae13--><g id="link_r13_sae13"><path d="M448.69,98.9499 C468.73,119.7799 496.97,149.1099 518.94,171.9299 " fill="none" id="r13-to-sae13" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="522.41,175.5299,519.0612,166.2679,518.9467,171.9236,513.291,171.8091,522.41,175.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="493.51" y="142.7999">3/0</text></g><!--MD5=[e6e85c36fc7e19466c0dc99f80c65c76]
+link r14 to sae13--><g id="link_r14_sae13"><path d="M560.56,98.9499 C559.04,119.3499 556.9,147.8999 555.22,170.5099 " fill="none" id="r14-to-sae13" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="554.84,175.5299,559.5223,166.8653,555.2257,170.5448,551.5461,166.2482,554.84,175.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="559.51" y="142.7999">2/0</text></g><!--MD5=[f70158d1e6576c4c52697264a68a4b20]
+link r15 to sae14--><g id="link_r15_sae14"><path d="M1350.22,98.9499 C1346.87,119.3499 1342.18,147.8999 1338.47,170.5099 " fill="none" id="r15-to-sae14" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1337.64,175.5299,1343.0536,167.3023,1338.455,170.5968,1335.1606,165.9983,1337.64,175.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="1346.51" y="142.7999">2/2</text></g><!--MD5=[82db2c419d53366c6d726b11d8a72f30]
+link r16 to sae12--><g id="link_r16_sae12"><path d="M178.26,384.0799 C206.37,408.1099 248.14,443.8099 278.98,470.1599 " fill="none" id="r16-to-sae12" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="283.06,473.6499,278.8299,464.7558,279.2637,470.396,273.6235,470.8298,283.06,473.6499" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="245.51" y="440.7999">x</text></g><!--MD5=[d9de3a0b9aeaae962593cac5878678f9]
+link r17 to sae12--><g id="link_r17_sae12"><path d="M319.51,384.0799 C319.51,407.6199 319.51,442.3599 319.51,468.5299 " fill="none" id="r17-to-sae12" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="319.51,473.6499,323.51,464.6499,319.51,468.6499,315.51,464.6499,319.51,473.6499" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="320.51" y="440.7999">x</text></g><!--MD5=[0280c8038c67eb650e301907d50360f7]
+link r18 to sae15--><g id="link_r18_sae15"><path d="M1008,98.9399 C988.06,107.5599 966.5,117.7899 947.51,128.7999 C925.6,141.5099 902.84,157.9599 884.14,172.4699 " fill="none" id="r18-to-sae15" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="879.97,175.7299,889.5228,173.3332,883.9075,172.6484,884.5923,167.0331,879.97,175.7299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="948.51" y="142.7999">4/0</text></g><!--MD5=[5c815fe65c1987dc8e52df82cef34889]
+link r18 to sae16--><g id="link_r18_sae16"><path d="M1088,98.9499 C1097.78,119.4299 1111.5,148.1499 1122.31,170.7899 " fill="none" id="r18-to-sae16" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1124.58,175.5299,1124.3087,165.6848,1122.4242,171.0185,1117.0905,169.134,1124.58,175.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="1110.51" y="142.7999">x</text></g><!--MD5=[2f5e44754ea22a4434289056cd6fcccf]
+link r19 to sae14--><g id="link_r19_sae14"><path d="M1241.57,98.9499 C1259.05,119.6899 1283.66,148.8699 1302.86,171.6399 " fill="none" id="r19-to-sae14" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1306.14,175.5299,1303.3959,166.0711,1302.9167,171.7076,1297.2802,171.2284,1306.14,175.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="1280.51" y="142.7999">2/0</text></g><!--MD5=[a01a34fbf7a4599f338c4cefb204b803]
+link r19 to sae16--><g id="link_r19_sae16"><path d="M1203.9,98.9499 C1191.62,119.5199 1174.38,148.3899 1160.84,171.0799 " fill="none" id="r19-to-sae16" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1158.18,175.5299,1166.2265,169.8507,1160.7419,171.2362,1159.3565,165.7516,1158.18,175.5299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="1185.51" y="142.7999">x</text></g><!--MD5=[127651c5b30928ef2d37f7fc9fa3ed32]
+link r110 to sae12--><g id="link_r110_sae12"><path d="M100.77,98.8999 C69.85,157.5099 6,301.8499 68.51,396.7999 C104.72,451.7999 175.46,478.9099 232.64,492.1999 " fill="none" id="r110-to-sae12" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="237.77,493.3699,229.8848,487.4688,232.8952,492.2581,228.1059,495.2685,237.77,493.3699" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="45.51" y="283.7999">x</text></g><!--MD5=[12af6f8472c7a84b986bee58814de1a1]
+link r110 to sae13--><g id="link_r110_sae13"><path d="M180.68,91.2299 C250.61,111.2299 364.82,144.4899 462.51,175.7999 C466.79,177.1699 471.17,178.5999 475.59,180.0599 " fill="none" id="r110-to-sae13" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="480.39,181.6499,473.1228,175.0026,475.648,180.0645,470.5861,182.5898,480.39,181.6499" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="359.51" y="142.7999">0/2</text></g><!--MD5=[0df309e124857728dbc27e3cd88c7d0b]
+link r111 to sae13--><g id="link_r111_sae13"><path d="M692.55,98.9499 C665.31,119.9299 626.84,149.5499 597.12,172.4499 " fill="none" id="r111-to-sae13" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="592.8,175.7699,602.3676,173.433,596.7567,172.7131,597.4767,167.1022,592.8,175.7699" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="651.51" y="142.7999">0/2</text></g><!--MD5=[5e68ba0ac68b96dff35ac5ddc6e8b70f]
+link r111 to sae15--><g id="link_r111_sae15"><path d="M723.33,99.0599 C722.85,113.8999 724.6,132.1499 733.51,145.7999 C740.41,156.3799 749.82,165.3099 760.24,172.7799 " fill="none" id="r111-to-sae15" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="764.43,175.6799,759.2995,167.2729,760.3165,172.8376,754.7518,173.8545,764.43,175.6799" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="734.51" y="142.7999">x</text></g><!--MD5=[7099522ca0b4d66d5e87bf2dcad56c9e]
+link r111 to sae16--><g id="link_r111_sae16"><path d="M755.03,98.9999 C774.34,115.1899 801.21,134.8899 828.51,145.7999 C917.69,181.4399 948.87,154.4399 1042.51,175.7999 C1046.94,176.8099 1051.46,177.9299 1056,179.1299 " fill="none" id="r111-to-sae16" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1060.94,180.4599,1053.2894,174.2577,1056.1119,179.1601,1051.2096,181.9826,1060.94,180.4599" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="18" x="829.51" y="142.7999">0/4</text></g><!--MD5=[83f07c80460ebf22ea7152e1bc3b1282]
+link r to s--><g id="link_r_s"><path d="M1492.51,90.3199 C1492.51,112.7999 1492.51,152.0699 1492.51,178.7399 " fill="none" id="r-to-s" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1492.51,183.8899,1496.51,174.8899,1492.51,178.8899,1488.51,174.8899,1492.51,183.8899" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="38" x="1493.51" y="142.7999">TD/TP</text></g><!--MD5=[6c5bd1eccfec8100b522d98f04a5fbf0]
+@startuml
+!define BLUE Skyblue
+!define YELLOW Lightyellow
+!define GREEN Lightgreen
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor YELLOW
+}
+
+skinparam node {
+  BackgroundColor BLUE
+}
+
+skinparam rectangle {
+  BackgroundColor GREEN
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<ac>> Black
+}
+
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam arrow {
+    MessageAlign center
+}
+
+'- - - - - - - - - - - Ressources
+storage "R1.01\nInitiation au dev." as r11
+storage "R1.02\nDev. interfaces web" as r12
+storage "R1.03\nIntro. archi." as r13
+storage "R1.04\nIntro. systèmes " as r14
+storage "R1.05\nIntroduction BD " as r15
+storage "R1.06\nMaths discrètes " as r16
+storage "R1.07\nOutils fondamentaux " as r17
+storage "R1.08\nGestion proj. orga. " as r18
+storage "R1.09\nÉconomie" as r19
+storage "R1.10\nAnglais technique" as r110
+storage "R1.11\nBases de la comm " as r111
+
+'- - - - - - - - - - - SAÉs
+node "SAE 1.1\nImplémentation\nbesoin client" as sae11
+node "SAE 1.2\nComparaison d'algo" as sae12
+node "SAE 1.3\nInstallation poste" as sae13
+node "SAE 1.4\nCréation BD" as sae14
+node "SAE 1.5\n[[https://iut-blagnac.github.io/but/but1/1.1/master.html]]" as sae15
+node "SAE 1.6\nEnvironnement éco" as sae16
+
+
+'- - - - - - - - - - - Chronologie des SAÉ
+
+sae15 <.. sae11
+sae11 <.. sae12
+
+'- - - - - - - - - - - Graphe
+title Info - S1 v.0.1
+
+
+
+r11 - -> sae11 : 2/2
+r11 - -> sae12 : 2/2
+r12 - -> sae15 : 0/2
+r12 - -> sae16 : 0/2
+r13 - -> sae13 : 3/0
+r14 - -> sae13 : 2/0
+r15 - -> sae14 : 2/2
+r16 - -> sae12 : x
+r17 - -> sae12 : x
+r18 - -> sae15 : 4/0
+r18 - -> sae16 : x
+r19 - -> sae14 : 2/0
+r19 - -> sae16 : x
+r110 - -> sae12 : x
+r110 - -> sae13 : 0/2
+r111 - -> sae13 : 0/2
+r111 - -> sae15 : x
+r111 - -> sae16 : 0/4
+
+'- - - Legend- - -
+storage Ressource as r
+node SAÉ as s
+r - -> s : TD/TP
+
+' Astuce cachée pour mettre la 14 à gauche de la 15
+'sae14 -[hidden]> sae15
+@enduml
+
+@startuml
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor Lightyellow
+}
+
+skinparam node {
+  BackgroundColor Skyblue
+}
+
+skinparam rectangle {
+  BackgroundColor Lightgreen
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<ac>> Black
+}
+
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam arrow {
+    MessageAlign center
+}
+
+storage "R1.01\nInitiation au dev." as r11
+storage "R1.02\nDev. interfaces web" as r12
+storage "R1.03\nIntro. archi." as r13
+storage "R1.04\nIntro. systèmes " as r14
+storage "R1.05\nIntroduction BD " as r15
+storage "R1.06\nMaths discrètes " as r16
+storage "R1.07\nOutils fondamentaux " as r17
+storage "R1.08\nGestion proj. orga. " as r18
+storage "R1.09\nÉconomie" as r19
+storage "R1.10\nAnglais technique" as r110
+storage "R1.11\nBases de la comm " as r111
+
+node "SAE 1.1\nImplémentation\nbesoin client" as sae11
+node "SAE 1.2\nComparaison d'algo" as sae12
+node "SAE 1.3\nInstallation poste" as sae13
+node "SAE 1.4\nCréation BD" as sae14
+node "SAE 1.5\n[[https://iut-blagnac.github.io/but/but1/1.1/master.html]]" as sae15
+node "SAE 1.6\nEnvironnement éco" as sae16
+
+
+
+sae15 <.. sae11
+sae11 <.. sae12
+
+title Info - S1 v.0.1
+
+
+
+r11 - -> sae11 : 2/2
+r11 - -> sae12 : 2/2
+r12 - -> sae15 : 0/2
+r12 - -> sae16 : 0/2
+r13 - -> sae13 : 3/0
+r14 - -> sae13 : 2/0
+r15 - -> sae14 : 2/2
+r16 - -> sae12 : x
+r17 - -> sae12 : x
+r18 - -> sae15 : 4/0
+r18 - -> sae16 : x
+r19 - -> sae14 : 2/0
+r19 - -> sae16 : x
+r110 - -> sae12 : x
+r110 - -> sae13 : 0/2
+r111 - -> sae13 : 0/2
+r111 - -> sae15 : x
+r111 - -> sae16 : 0/4
+
+storage Ressource as r
+node SAÉ as s
+r - -> s : TD/TP
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 10:55:52 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
