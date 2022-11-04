@@ -1,1 +1,0 @@
-= Ressources {num-comp}: {mytitle}
