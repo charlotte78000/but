@@ -18,3 +18,37 @@ Ce site regroupe les informations concernant le département informatique de l'{
 Pour des informations générales sur le BUT Informatique de Blagnac : https://www.iut-blagnac.fr/fr/formations/dut-informatique.
 
 Pour télécharger la plaquette du BUT Informatique de Blagnac : https://www.iut-blagnac.fr/images/PDF/BUT_INFO__2020.pdf
+[plantuml, format = "svg", opts="interactive", svg-type="inline"]
+....
+@startgantt
+
+title SAE S1.05
+
+printscale weekly
+
+Project starts the 20th of September 2021
+
+
+-- SAE S1.05 --
+
+[Organisation] lasts 2 weeks
+then [Recueil] lasts 1 week
+then [Synthèse] lasts 2 weeks
+then [Rédaction] lasts 2 weeks
+
+'[Présentation] happens at [Rédaction]'s end
+[Présentation] happens the 10 November 2021
+
+
+@endgantt
+....
+//[plantuml, format="svg", options="interactive", width="300%"]
+
+//include::ROOT:page$buts1.plantuml[]
+
+//plantuml::buts1.plantuml[png]
+
+
+
+
+

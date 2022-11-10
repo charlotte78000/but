@@ -13,11 +13,11 @@ content:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   # - url: https://@gitlab.com/antora/demo/demo-component-a.git
   #   branches: master
-  # - url: https://gitlab.com/antora/demo/demo-component-b.git
+  #- url: https://gitlab.com/antora/demo/demo-component-b.git
   #   branches: [v2.0, v1.0]
-  #   start_path: docs
-  # - url: https://github.com/jmbruel/but1.git
-  #start_path: docs
+  #  start_path: docs
+  #- url: https://github.com/jmbruel/but1.git
+  #  start_path: docs
   - url: .
     branches: HEAD
     start_path: docs

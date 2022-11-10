@@ -84,7 +84,7 @@ Les besoins du client doivent être réel.
 .icon:graduation-cap[] Qui ?
 ====
 - {ep} (p)
-- {jmb} (p) image:sae-1.5/jmb.jpg[width=10%, pdfwidth=10%] 
+- {jmb} (p) image:jmb.jpg[width=10%, pdfwidth=10%] 
 - {lc}  (v)
 +
 NOTE: Assistance pendant les {heures-sae}h PJT
