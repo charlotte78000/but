@@ -18,6 +18,8 @@ content:
   #  start_path: docs
   #- url: https://github.com/jmbruel/but1.git
   #  start_path: docs
+  - url: https://gitlab.com/jmbruel/antora-but-info-blagnac-ui
+    start_path: docs
   - url: .
     branches: HEAD
     start_path: docs
