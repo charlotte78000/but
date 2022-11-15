@@ -1,0 +1,47 @@
+
+# https://docs.antora.org/antora/2.3/playbook/configure-site/
+# On définit ici l'URL qui permettra d'accéder au site créé par
+# Antora depuis l'extérieur.
+site:
+  title: 'IUT Blagnac -- BUT Informatique'
+  # the 404 page and sitemap files only get generated when the url property is set
+  url: https://IUT-Blagnac.github.io/but
+  start_page: but::master.adoc
+
+content:
+  sources:
+  # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
+  # - url: https://@gitlab.com/antora/demo/demo-component-a.git
+  #   branches: master
+  #- url: https://gitlab.com/antora/demo/demo-component-b.git
+  #   branches: [v2.0, v1.0]
+  #  start_path: docs
+  #- url: https://github.com/jmbruel/but1.git
+  #  start_path: docs
+  
+  - url: .
+    branches: HEAD
+    start_path: docs
+
+ui:
+  bundle:
+#    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+#    url: https://github.com/couchbase/docs-ui/releases/download/prod-115/ui-bundle.zip
+#    url: docs/ui-bundle.zip
+#    url: https://gitlab.com/jmbruel/antora-but-info-blagnac-ui/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    url: but-info-ui/build/ui-bundle.zip
+  supplemental_files:
+  - path: .nojekyll
+  - path: ui.yml
+    contents: "static_files: [ .nojekyll ]"
+
+
+asciidoc:
+  extensions:
+    - asciidoctor-kroki
+  attributes:
+    # for plantuml and other diagrams
+    kroki-fetch-diagram: true
+    # to avoid "Example xyz:" on OQQQ sections
+    example-caption: ""
+

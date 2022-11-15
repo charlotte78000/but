@@ -1,0 +1,28 @@
+
+
+# https://docs.antora.org/antora/2.3/component-version-descriptor/
+
+# https://docs.antora.org/antora/2.3/component-display-version/
+# display_version: α
+
+# https://docs.antora.org/antora/2.3/component-start-page/
+start_page: ROOT:master1.adoc
+
+# https://docplayer.fr/169511571-Asciidoc-asciidoctor-antora.html
+nav:
+- modules/ROOT/nav.adoc
+- modules/competences/nav.adoc
+- modules/ressources/nav.adoc
+- modules/sae/nav.adoc
+
+# https://docs.antora.org/antora/2.3/component-version-descriptor/
+
+# https://docs.antora.org/antora/2.3/component-name-and-version/
+name: but
+version: '1.2'
+
+# https://docs.antora.org/antora/2.3/component-title/
+title: BUT Informatique Blagnac
+
+
+
