@@ -1,0 +1,35 @@
+#presentation {
+  border: solid #ffc000 4px;
+  background-color: #ffd890;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#attendus {
+  border: solid #ffc000 4px;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#contraintes {
+  border: solid red 4px;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#phases {
+  border: solid #ffc000 4px;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#ressources {
+  border: solid #00ff37da 4px;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+}
