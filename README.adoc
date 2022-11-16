@@ -42,8 +42,6 @@ Pour stocker les images, aller au niveau du répertoire concerné dans le dossie
 
 === Liens
 
-
-
 Pour créer un lien vers une page procédez ainsi : `xref:nom_du_répertoire:page.adoc`
 
 Pour afficher une image dans une page procédez ainsi :
@@ -55,4 +53,6 @@ Pour créer un lien sur une image pour présenter les liens entre modules procé
     image:image.ext[xref=nom_du_repertoire:page.adoc]
 
 
-   
+=== PDF
+
+Pour ajouter un fichier en pdf, aller ...
