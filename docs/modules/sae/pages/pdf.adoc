@@ -1,4 +1,4 @@
 === PDF
 
 
-xref:attachments$BUT_INFO__2020.pdf[]
+xref:attachment$BUT_INFO__2020.pdf[Version 2022]
