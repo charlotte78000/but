@@ -55,4 +55,9 @@ Pour créer un lien sur une image pour présenter les liens entre modules procé
 
 === PDF
 
-Pour ajouter un fichier en pdf, aller ...
+Pour ajouter un fichier pdf, aller dans ROOT et l'enregister dans le dossier 'pages' ainsi que le répertoire sae au niveau du dossier 'attachments'.
+Aller au niveau du répertoire sae et enregister le lien du pdf dans le fichier 'pdf.adoc' de la manière suivante : 
+    
+    xref:attachment$nom_du_fichier.pdf[] 
+
+Dans le partie interface utilisateur, créer un lien vers le pdf dans le fichier concernéde la manière suivante: 'href="pdf.html"'
