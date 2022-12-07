@@ -38,7 +38,9 @@ associé de la manière suivante:
 === Images
 
 Pour stocker les images, aller au niveau du répertoire concerné dans le dossier
- `images`
+ `images`.
+
+ Concernant les images dans le répertoire ui, les enregister sous le format `svg` dans le dossier `src' au niveau de `img`.
 
 === Liens
 
