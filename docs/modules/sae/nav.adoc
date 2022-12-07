@@ -8,5 +8,5 @@
 * xref:sae-2.1.adoc[2.1 Dév. d'une application]
 
 
-//* xref:pdf.adoc[PN 2020]
+
 
