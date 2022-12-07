@@ -1,4 +1,3 @@
 === PDF
 
-
 xref:attachment$BUT_INFO__2020.pdf[Version 2022]
