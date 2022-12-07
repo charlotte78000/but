@@ -40,7 +40,8 @@ associé de la manière suivante:
 Pour stocker les images, aller au niveau du répertoire concerné dans le dossier
  `images`.
 
- Concernant les images dans le répertoire ui, les enregister sous le format `svg` dans le dossier `src' au niveau de `img`.
+Concernant les images dans le répertoire ui procédez ainsi: 
+enregister l'image sous le format `svg` dans le dossier `src' au niveau de `img`.
 
 === Liens
 
