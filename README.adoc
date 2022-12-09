@@ -37,10 +37,10 @@ associé de la manière suivante:
 
 === Images
 
-Pour stocker les images, aller au niveau du répertoire concerné dans le dossier
+Pour stocker les images dans le répertoire but, aller au niveau du répertoire concerné dans le dossier
  `images`.
 
-Pour stocker les images dans le répertoire ui, enregister l'image sous le format `svg` dans le dossier `src`
+Pour stocker les images dans le répertoire ui, enregister l'image sous le format `svg` dans le dossier `src`.
 
 === Liens
 

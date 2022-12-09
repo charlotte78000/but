@@ -33,6 +33,7 @@
   position: relative;
   top: var(--toolbar-height);
   height: var(--nav-height);
+  font-weight: 700;
 }
 
 @media screen and (min-width: 769px) {
@@ -90,13 +91,14 @@ html.is-clipped--nav {
 .nav-menu h3.title {
   color: var(--nav-heading-font-color);
   font-size: inherit;
-  font-weight: var(--body-font-weight-bold);
+  font-weight: 700;
   margin: 0;
   padding: 0.25em 0 0.125em;
 }
 
 .nav-menu a {
   color: inherit;
+  font-weight: 700;
 }
 
 .nav-list {
@@ -112,6 +114,7 @@ html.is-clipped--nav {
   list-style: none;
   margin-top: 0.5em;
   padding-top: 1em;
+  font-weight: 700;
 }
 
 /* adds some breathing room below a nested list */
